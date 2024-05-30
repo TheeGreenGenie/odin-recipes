@@ -1,0 +1,33 @@
+body {
+    background-color: blueviolet;
+}
+h1 {
+    background-color: yellow;
+    border: solid black 5px;
+    padding: 5px;
+    text-align: center;
+    font-weight: 900;
+    font
+}
+
+.recipes {
+    border: 5px solid;
+    background-color: yellow;
+}
+
+li {
+    background-color: blueviolet;
+    display: block;
+    margin: 10px;
+    border: 5px black solid;
+    padding: 5px;
+    font-weight: 800;
+}
+
+a:link {
+    color: black;
+}
+
+a:visited {
+    color: rgb(121, 121, 0);
+}
